@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/wryun/rjsone.svg?branch=master)](https://travis-ci.org/wryun/rjsone)
+**WARNING: This fork is purely so groklearning can control the rjsone build process. Changes should be made upstream.**
+
+[![Build Status](https://travis-ci.org/groklearning/rjsone.svg?branch=master)](https://travis-ci.org/groklearning/rjsone)
 
 `rjsone` (Render JSON-e) is a simple wrapper around the
 [JSON-e templating language](https://taskcluster.github.io/json-e/).
